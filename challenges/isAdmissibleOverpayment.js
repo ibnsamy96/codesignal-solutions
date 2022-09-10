@@ -1,3 +1,5 @@
+// problem: https://app.codesignal.com/challenge/pRuhLib5DdetsY4E7
+
 function solution(prices, notes, x) {
 	let sensitivity = 0;
 
